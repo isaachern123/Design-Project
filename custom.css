@@ -1,0 +1,98 @@
+.anton {
+    font-family: 'Anton', sans-serif;
+}
+.abel {
+    font-family: 'Abel', sans-serif;
+}
+.main {
+    font-size: xxx-large;
+}
+.secondary{
+    font-size: xx-large;
+}
+body{
+    background-color:#f0f0f0;
+}
+.test1{
+    background-color: #e6563b;
+    border: 10px solid white;
+    border-radius:100%;
+    height:115px;
+    width:115px;
+    /*margin: 5px;*/
+    /*margin-left:75px;*/
+}
+.test2{
+    background-color: #eb9d3a;
+    border: 10px solid white;
+    border-radius:100%;
+    height:115px;
+    width:115px;
+    /*margin: 10px;*/
+
+    /*margin-right:75px;*/
+}
+.test3{
+    background-color: #7cb06c;
+    border: 10px solid white;
+    border-radius:100%;
+    height:115px;
+    width:115px;
+    /*margin: 10px;*/
+
+    /*margin-left:75px;*/
+}
+.test4{
+    background-color:#00aba9;
+    border: 10px solid white;
+    border-radius:100%;
+    height:115px;
+    width:115px;
+    /*margin: 10px;*/
+
+    /*margin-right:75px;*/
+}
+.circles{
+    /*height:60px;*/
+    /*width:60px;*/
+    border-radius:100%;
+    color:white;
+}
+.pic {
+    border: 10px solid #e6e6e6;
+    width: 100%;
+    height: auto;
+}
+.icons {
+    height: 27px;
+    width: 27px;
+    border-radius: 100%;
+    padding: 3px;
+}
+.icon1 {
+    background-color: #e6563b;
+}
+.icon2 {
+    background-color: #eb9d3a;
+}
+.icon3 {
+    background-color: #7cb06c;
+}
+.icon4 {
+    background-color: #00aba9;
+}
+.small-img{
+    border: 5px solid #e6e6e6;
+    width:75px;
+    height:75px;
+}
+@media (min-width: 1200px) {
+    .right-column{
+        margin-top:23px;
+    }
+}
+@media (min-width: 768px) {
+    .main-images{
+      width: 75%;
+    }
+}
